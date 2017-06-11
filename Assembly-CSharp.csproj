@@ -46,8 +46,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Hole.cs" />
      <Compile Include="Assets\Scripts\Cutting.cs" />
+     <Compile Include="Assets\Scripts\Hole.cs" />
      <Compile Include="Assets\Scripts\Rope.cs" />
      <Compile Include="Assets\Scripts\Weight.cs" />
  <Reference Include="UnityEngine.UI">
